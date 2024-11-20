@@ -1,0 +1,1 @@
+sysbench ./test/table_under_test.lua --config-file='connection.conf' --threads=1 prepare

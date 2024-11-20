@@ -1,0 +1,1 @@
+sysbench ./test/table_under_test.lua --config-file='connection.conf' --threads=8 --events=320000 --time=0 run
