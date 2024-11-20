@@ -9,7 +9,7 @@
 1. Edit prepare method in [table_under_test.lua](test/table_under_test_insert.lua)
 2. Uncomment based the line, depend on test case that you'd like to benchmark
 3. run `./run_prepare.sh`
-4.run `./run_benchmark.sh`
+4. run `./run_benchmark.sh`
 
 ## Result
 
